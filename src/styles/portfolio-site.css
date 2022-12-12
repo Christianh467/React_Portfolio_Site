@@ -4,14 +4,6 @@
   --gray: rgb(50, 50, 50);
 }
 
-body{
-  margin: 0;
-  padding: 0;
-  width: 100vw;
-  background-color: gray;
-  text-align: center;
-}
-
 *{
   margin: 0;
   padding: 0;
@@ -151,12 +143,13 @@ h3{
 }
 
 #contact-section p{
-  font-size: 1.2rem;
+  margin-top: -.6rem;
+  font-size: 1.3rem;
   color: lightgray;
 }
 
 .contact-list{
-  margin-top: 2rem;
+  margin-top: 2.5rem;
   display: flex;
   justify-content: space-evenly;
   width: 90vw;

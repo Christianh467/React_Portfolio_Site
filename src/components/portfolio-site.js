@@ -37,13 +37,13 @@ function Portfolio_Site() {
         </div>
       </div>
       <div id='contact-section'>
-        <h1>Lets Work Together...</h1>
+        <h1>Let's Work Together...</h1>
         <p>the future is waiting</p>
         <div class='contact-list'>
           <li class='profile-link'><div class='img-container'><a id='profile-link' href='https://www.facebook.com/Christianh467' target='_blank'><i class="fa-brands fa-square-facebook"></i><span>Facebook</span></a></div></li>
           <li class='profile-link'><div class='img-container'><a id='profile-link' href='https://github.com/Christianh467' target='_blank'><i class="fa-brands fa-github"></i><span>Github</span></a></div></li>
           <li class='profile-link'><div class='img-container'><a id='profile-link' href=' ' target='_blank'><i class="fa-solid fa-mobile"></i><span id='phone'>(817)-939-7721</span></a></div></li>
-          <li class='profile-link'><div class='img-container'><a id='profile-link' href=' ' target='_blank'><i class="fa-solid fa-paper-plane"></i><span id='email'>Christianhead467@gmail.com</span></a></div></li>
+          <li class='profile-link'><div class='img-container'><a id='profile-link' href='mailto:christianhead467@gmail.com' target='_blank'><i class="fa-solid fa-paper-plane"></i><span id='email'>Christianhead467@gmail.com</span></a></div></li>
         </div>
       </div>
     </div>
