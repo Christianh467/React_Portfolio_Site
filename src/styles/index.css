@@ -25,3 +25,9 @@ footer{
 footer span{
   margin: 0 5rem;
 }
+
+@media screen and (max-width: 400px){
+  footer span{
+    font-size: .9rem;
+  }
+}

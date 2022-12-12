@@ -139,23 +139,6 @@ a img{
   height: 15rem;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #contact-section{
   display: flex;
   flex-direction: column;
@@ -190,7 +173,7 @@ a img{
   font-size: 1.5rem;
   cursor: pointer;
   margin-bottom: 2rem;
-  margin-left: 1rem;
+  margin-left: .5rem;
   font-style: none;
 }
 
@@ -204,11 +187,53 @@ i{
 
 .img-container span{
   color: white;
-  margin-left: 1rem;
+  margin-left: .5rem;
 }
 
 .img-container:hover{
   transform: translateY(10px);
   transition-timing-function: ease-in-out;
   transition-delay: .1s;
+}
+
+@media screen and (max-width: 1000px){
+  .nav-link{
+    width: 15%;
+  }
+
+  .nav a:last-of-type{
+    width: 20%;
+    margin-left: auto;
+    background-color: var(--dark-blue);
+  }
+
+  h1{
+    font-size: 5vw;
+  }
+
+  h3{
+    font-size: 2.7vw;
+  }
+
+  #project-section h2{
+    font-size: 5vw;
+  }
+}
+
+@media screen and (max-width: 627px){
+  .nav-link{
+    width: 20%;
+  }
+
+  .nav a:last-of-type{
+    width: 25%;
+    margin-left: auto;
+    background-color: var(--dark-blue);
+  }
+}
+
+@media screen and (max-width: 400px){
+  .img-container{
+    font-size: .9rem;
+  }
 }
