@@ -24,8 +24,9 @@ function Portfolio_Site() {
         <h3>front-end engineer, future full-stack</h3>
       </div>
       <div id='resume-section'>
-        <a href='something'>
-          <i id='resume-icon'></i>
+        <a href="ChristianHeadResume.pdf" target="_blank" type="doc/pdf">
+          <i class='fa-solid fa-file'></i>
+          <span>Christian Head's Resume</span>
         </a>
       </div>
       <div id='project-section'>
