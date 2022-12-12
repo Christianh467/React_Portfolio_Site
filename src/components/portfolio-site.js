@@ -32,6 +32,9 @@ function Portfolio_Site() {
       </div>
       <div id='project-section'>
         <h2>These are some of my projects</h2>
+        <div>
+          carousel of projects
+        </div>
       </div>
       <div id='contact-section'>
         <h1>Lets Work Together...</h1>
