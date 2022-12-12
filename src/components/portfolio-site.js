@@ -1,4 +1,4 @@
-import '../styles/App.css';
+import '../styles/portfolio-site.css';
 
 function Portfolio_Site() {
   return (
