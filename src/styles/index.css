@@ -9,7 +9,19 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 130px;
+  background-color: black;
+  font-size: 1.1rem;
+  color: white;
+  border-top: solid 5px;
+  border-color: rgb(0, 0, 200);
+}
+
+footer span{
+  margin: 0 5rem;
 }

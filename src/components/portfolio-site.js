@@ -46,9 +46,6 @@ function Portfolio_Site() {
           <li class='profile-link'><div class='img-container'><a id='profile-link' href=' ' target='_blank'><i class="fa-solid fa-paper-plane"></i><span id='email'>Christianhead467@gmail.com</span></a></div></li>
         </div>
       </div>
-      <div id='footer'>
-        <span>This webpage acts as my portfolio and resume. If you still have any further questions or concerns, please feel free to contact me.</span>
-      </div>
     </div>
   );
 }

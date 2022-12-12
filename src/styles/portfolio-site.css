@@ -155,11 +155,6 @@ h3{
   color: lightgray;
 }
 
-
-
-
-
-
 .contact-list{
   margin-top: 2rem;
   display: flex;
@@ -197,25 +192,4 @@ i{
   transform: translateY(10px);
   transition-timing-function: ease-in-out;
   transition-delay: .1s;
-}
-
-
-
-
-
-#footer{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  height: 130px;
-  background-color: black;
-  font-size: 1.1rem;
-  color: white;
-  border-top: solid 5px;
-  border-color: rgb(0, 0, 200);
-}
-
-footer span{
-  margin: 0 5rem;
 }
